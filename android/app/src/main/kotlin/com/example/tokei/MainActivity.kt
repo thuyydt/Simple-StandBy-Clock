@@ -1,4 +1,4 @@
-package com.example.tokei
+package com.phinq.simplestandbyios
 
 import io.flutter.embedding.android.FlutterActivity
 
